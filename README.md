@@ -1,5 +1,5 @@
-# Tutorial in ISBI 2023: 
-Topological Data Analysis for Biomedical Imaging Data
+# Tutorial in ISBI 2023
+# Topological Data Analysis for Biomedical Imaging Data
 
 
 ### Lecture 1. Simplical homology and persistent homology
