@@ -1,7 +1,7 @@
-<font color="red">
-# Tutorial in ISBI 2023
+#<font color="red">
+Tutorial in ISBI 2023</font>
 ## Topological Data Analysis for Biomedical Imaging Data
-</font>
+
 
 ### Lecture 1. Simplical homology and persistent homology
 The tutorial will be given by Moo K. Chung with the help of Zijian Chen. The tutorial will cover the basics of topological data analysis (TDA) such as Rips and graph filtrations, boundary operators, the Hodge Laplacian. Then the concept of persistent diagrams and barcodes will be introduced. How to resampling scatter points in the persistent diagram using the Dirichlet distribution will be explained. 
