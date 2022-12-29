@@ -1,6 +1,8 @@
 # Tutorial in ISBI 2023
 ## Topological Data Analysis for Biomedical Imaging Data
 
+Topological data analysis (TDA) is a fast growing field proving many powerful tools for biomedical imaging data. TDA characterizes topological changes of multivariate representations of imaging data in multidimensional scales. In doing so TDA reveals the persistent topological patterns in data only visible on a multiscale level. The overall topological changes hold more significance in TDA features over fleeting structures also makes the approach particularly robust at the presence of imaging noise and artifacts. This is the first TDA tutorial in ISBI. The tutorial is aimed at educating both basics and state of the arts in TDA for students and researchers attending ISBI. The expected audiences are graduate students and researchers trying to learn TDA for the first time. However, existing TDA researchers will also benefit. The knowledge in TDA or topology is not needed. 
+
 
 ### Lecture 1. Simplical homology and persistent homology
 The tutorial will be given by Moo K. Chung of University of Wisconsin-Madison with the help of Zijian Chen. The tutorial will cover the basics of topological data analysis (TDA) such as Rips and graph filtrations, boundary operators, the Hodge Laplacian. Then the concept of persistent diagrams and barcodes will be introduced. How to resampling scatter points in the persistent diagram using the Dirichlet distribution will be explained. 
