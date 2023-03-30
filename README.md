@@ -17,7 +17,7 @@ The tutorial will be given by Hernando Ombao and Anass El Yaagoubi Bourkna of KA
 
 
 ### Lecture 3. Wasserstein distance between persistent diagrams
-The tutorial will be given by Soheil Kolouri of Vanderbilt University. The tutorial consists of introduction to Wasserstein distances and its sliced version, which does scalable computation of the Wasserstein distance. Persistent diagrams will be represented as an empirical distributions using the Dirac delta functions. Then  the algorithmic detail on the computation of  the Wasserstein distance between persistent diagrams will be presented. Its scalable version called the sliced-Wasserstein distance will be also introduced and contrasted against the baseline (Hungarian algorithm). Additional machine learning applications will be presented. 
+The tutorial will be given by Soheil Kolouri of Vanderbilt University. The tutorial consists of introduction to Wasserstein distances and its sliced version, which does scalable computation of the Wasserstein distance. Persistent diagrams will be represented as an empirical distributions using the Dirac delta functions. Then  the algorithmic detail on the computation of  the Wasserstein distance between persistent diagrams will be presented. Its scalable version called the sliced-Wasserstein distance will be also introduced and contrasted against the baseline (Hungarian algorithm). Additional machine learning applications will be presented. Lecture material is based on https://github.com/skolouri/TopoTrans, which can be donwloaded as a signle zip file 
 
 
 
