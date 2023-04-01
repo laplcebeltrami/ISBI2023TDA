@@ -7,8 +7,8 @@ The tutorial will consist of three major topics covered for one hour each for to
 
 The tutorial will consist of a brief theoretical review on the topics with hand-on computer demonstrations. We recommend audience to bring their own laptop to run the provided codes during the tutorial. All the tutorial lecture slides, relevant tutorial paper and computer codes will be provided at https://github.com/laplcebeltrami/ISBI2023TDA. After the tutorial, at minimum, audiences will understand how to extract topological features, compute the topological distances, and convert functional imaging data into topological descriptors. Any administrative issues related to the tutorial should be addressed to mkchung@wisc.edu. The lecture details as follows.
 
-
-<font color="green"> LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE </font>
+```diff
+- LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE
 
 ### Lecture 1. Simplical homology and persistent homology
 The tutorial will be given by Moo K. Chung and of University of Wisconsin-Madison with the help of Zijian Chen. The tutorial will cover the basics of topological data analysis (TDA) such as Morse filtrations, Rips and graph filtrations, boundary operators, the Hodge Laplacian. Then the concept of persistent diagrams and barcodes will be introduced. How to resampling scatter points in the persistent diagram using the Dirichlet distribution will be explained. The lecture is based on MATLAB TDA toolbox [PH-STAT.pdf](https://github.com/laplcebeltrami/ISBI2023TDA/blob/main/PH-STAT/PH-STAT.pdf) and lecture slides [lecture1.pdf](https://github.com/laplcebeltrami/ISBI2023TDA/blob/main/ISBI2023TDA-lecture1.pdf).
