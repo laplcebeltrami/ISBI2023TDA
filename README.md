@@ -7,7 +7,8 @@ The tutorial will consist of three major topics covered for one hour each for to
 
 The tutorial will consist of a brief theoretical review on the topics with hand-on computer demonstrations. We recommend audience to bring their own laptop to run the provided codes during the tutorial. All the tutorial lecture slides, relevant tutorial paper and computer codes will be provided at https://github.com/laplcebeltrami/ISBI2023TDA. After the tutorial, at minimum, audiences will understand how to extract topological features, compute the topological distances, and convert functional imaging data into topological descriptors. Any administrative issues related to the tutorial should be addressed to mkchung@wisc.edu. The lecture details as follows.
 
-```diff - LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE
+
+- LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE
 
 
 ### Lecture 1. Simplical homology and persistent homology
