@@ -23,4 +23,4 @@ The tutorial will be given by professor Soheil Kolouri of Vanderbilt University.
 
 
 
-(C) 2022 Zijian Chen, Anass El Yaagoubi Bourkna, Soheil Kolouri, Hernando Ombao, Moo K. Chung
+(C) 2022 Anass El Yaagoubi Bourkna, Zijian Chen, Soheil Kolouri, Hernando Ombao, Moo K. Chung
