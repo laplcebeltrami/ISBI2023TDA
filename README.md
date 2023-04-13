@@ -8,8 +8,21 @@ The tutorial will consist of three major topics covered for one hour each for to
 The tutorial will consist of a brief theoretical review on the topics with hand-on computer demonstrations. We recommend audience to bring their own laptop to run the provided codes during the tutorial. All the tutorial lecture slides, relevant tutorial paper and computer codes will be provided at https://github.com/laplcebeltrami/ISBI2023TDA. After the tutorial, at minimum, audiences will understand how to extract topological features, compute the topological distances, and convert functional imaging data into topological descriptors. Any administrative issues related to the tutorial should be addressed to mkchung@wisc.edu. The lecture details as follows.
 
 
-+ [LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE]()
+## Time and place: 
 
+Tutorial 6 pt I: Topological Data Analysis for Biomedical Imaging Data
+Lecture 1 and first half of Lectrue 2:
+Thu, Apr 20, 11:30 – 13:00
+SALÓN BARAHONA 2
+
+The last half of Lecture 2 and Lecture 3:
+
+Tutorial 6 pt II: Topological Data Analysis for Biomedical Imaging Data
+Thu, Apr 20, 16:00 – 17:30
+SALÓN BARAHONA 2
+
+
++ [LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE]()
 
 ### Lecture 1. Simplical homology and persistent homology
 The tutorial will be given by professor Moo K. Chung and of University of Wisconsin-Madison with the help of Zijian Chen. The tutorial will cover the basics of topological data analysis (TDA) such as Morse filtrations, Rips and graph filtrations, boundary operators and the Hodge Laplacian. Then the concept of persistent diagrams will be introduced. Topological inference and clustering will be explained. The lecture is based on MATLAB TDA toolbox https://github.com/laplcebeltrami/PH-STAT. The detailed manual of the toolbox is given in [PH-STAT.pdf](https://github.com/laplcebeltrami/PH-STAT/blob/main/PH-STAT.pdf). The lecture slides is [lecture1.pdf](https://github.com/laplcebeltrami/ISBI2023TDA/blob/main/ISBI2023TDA-lecture1.pdf). 
