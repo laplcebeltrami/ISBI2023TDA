@@ -1,13 +1,6 @@
 # Tutorial in ISBI 2023
 ## Topological Data Analysis for Biomedical Imaging Data
 
-Topological data analysis (TDA) is a fast growing field proving many powerful tools for biomedical imaging data. TDA characterizes topological changes of multivariate representations of imaging data in multidimensional scales. In doing so TDA reveals the persistent topological patterns in data only visible on a multiscale level. The overall topological changes hold more significance in TDA features over fleeting structures also makes the approach particularly robust at the presence of imaging noise and artifacts. This is the first TDA tutorial in ISBI. The tutorial is aimed at educating both basics and state of the arts in TDA for students and researchers attending ISBI. The expected audiences are graduate students and researchers trying to learn TDA for the first time. However, existing TDA researchers will also benefit. The knowledge in TDA or topology is not needed. 
-
-The tutorial will consist of three major topics covered for one hour each for total three-hour duration. Three professors Moo K. Chung (University of Wisconsin-Madison), Soheil Kolouri (Vanderbilt University) and Hernando Ombao (KAUST) will give one hour lecture each. Chung will give an introductory overview of basic concepts in TDA (filtrations, persistent diagrams, barcodes), Kolouri will explain how to compute the Wasserstein distance between persistent diagrams using existing baseline method and the scalable sliced-Wasserstein distance. Ombao will explain how to transform functional biomedical images such as MEG, EEG, fMRI and fNIR into topological descriptors through time delay embedding and slide window embedding.
-
-The tutorial will consist of a brief theoretical review on the topics with hand-on computer demonstrations. We recommend audience to bring their own laptop to run the provided codes during the tutorial. All the tutorial lecture slides, relevant tutorial paper and computer codes will be provided at https://github.com/laplcebeltrami/ISBI2023TDA. After the tutorial, at minimum, audiences will understand how to extract topological features, compute the topological distances, and convert functional imaging data into topological descriptors. Any administrative issues related to the tutorial should be addressed to mkchung@wisc.edu. The lecture details as follows.
-
-
 ## Time and place: 
 
 Tutorial 6 pt I: Topological Data Analysis for Biomedical Imaging Data
@@ -20,6 +13,14 @@ The last half of Lecture 2 and Lecture 3:
 Tutorial 6 pt II: Topological Data Analysis for Biomedical Imaging Data
 Thu, Apr 20, 16:00 – 17:30
 SALÓN BARAHONA 2
+
+
+Topological data analysis (TDA) is a fast growing field proving many powerful tools for biomedical imaging data. TDA characterizes topological changes of multivariate representations of imaging data in multidimensional scales. In doing so TDA reveals the persistent topological patterns in data only visible on a multiscale level. The overall topological changes hold more significance in TDA features over fleeting structures also makes the approach particularly robust at the presence of imaging noise and artifacts. This is the first TDA tutorial in ISBI. The tutorial is aimed at educating both basics and state of the arts in TDA for students and researchers attending ISBI. The expected audiences are graduate students and researchers trying to learn TDA for the first time. However, existing TDA researchers will also benefit. The knowledge in TDA or topology is not needed. 
+
+The tutorial will consist of three major topics covered for one hour each for total three-hour duration. Three professors Moo K. Chung (University of Wisconsin-Madison), Soheil Kolouri (Vanderbilt University) and Hernando Ombao (KAUST) will give one hour lecture each. Chung will give an introductory overview of basic concepts in TDA (filtrations, persistent diagrams, barcodes), Kolouri will explain how to compute the Wasserstein distance between persistent diagrams using existing baseline method and the scalable sliced-Wasserstein distance. Ombao will explain how to transform functional biomedical images such as MEG, EEG, fMRI and fNIR into topological descriptors through time delay embedding and slide window embedding.
+
+The tutorial will consist of a brief theoretical review on the topics with hand-on computer demonstrations. We recommend audience to bring their own laptop to run the provided codes during the tutorial. All the tutorial lecture slides, relevant tutorial paper and computer codes will be provided at https://github.com/laplcebeltrami/ISBI2023TDA. After the tutorial, at minimum, audiences will understand how to extract topological features, compute the topological distances, and convert functional imaging data into topological descriptors. Any administrative issues related to the tutorial should be addressed to mkchung@wisc.edu. The lecture details as follows.
+
 
 
 + [LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE]()
