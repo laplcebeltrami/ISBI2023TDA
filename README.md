@@ -4,13 +4,15 @@
 ## Time and place: 
 
 Tutorial 6 pt I: Topological Data Analysis for Biomedical Imaging Data
+
+
 Lecture 1 and first half of Lectrue 2:
 Thu, Apr 20, 11:30 – 13:00
 SALÓN BARAHONA 2
 
-The last half of Lecture 2 and Lecture 3:
 
 Tutorial 6 pt II: Topological Data Analysis for Biomedical Imaging Data
+The last half of Lecture 2 and Lecture 3:
 Thu, Apr 20, 16:00 – 17:30
 SALÓN BARAHONA 2
 
