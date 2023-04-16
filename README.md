@@ -12,6 +12,7 @@ SALÓN BARAHONA 2
 
 
 Tutorial 6 pt II: Topological Data Analysis for Biomedical Imaging Data
+
 The last half of Lecture 2 and Lecture 3:
 Thu, Apr 20, 16:00 – 17:30
 SALÓN BARAHONA 2
