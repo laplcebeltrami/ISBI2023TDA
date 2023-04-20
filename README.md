@@ -29,7 +29,7 @@ The tutorial will consist of a brief theoretical review on the topics with hand-
 + [LECTURE MATERIALS ARE CONSTANTLY UPDATED WEEKELY TILL THE TUTORIAL DATE]()
 
 ### Lecture 1. Simplical homology and persistent homology
-The tutorial will be given by professor Moo K. Chung and of University of Wisconsin-Madison with the help of Zijian Chen. The tutorial will cover the basics of topological data analysis (TDA) such as Morse filtrations, Rips and graph filtrations, boundary operators and the Hodge Laplacian. Then the concept of persistent diagrams will be introduced. Topological inference and clustering will be explained. The lecture is based on MATLAB TDA toolbox https://github.com/laplcebeltrami/PH-STAT. The detailed manual of the toolbox is given in [PH-STAT.pdf](https://github.com/laplcebeltrami/PH-STAT/blob/main/PH-STAT.pdf). arXiv version: https://arxiv.org/abs/2304.05912.
+The tutorial will be given by professor Moo K. Chung and of University of Wisconsin-Madison with the help of Zijian Chen. The tutorial will cover the basics of topological data analysis (TDA) such as Morse filtrations, Rips and graph filtrations, boundary operators and the Hodge Laplacian. Then the concept of persistent diagrams will be introduced. Topological inference and clustering will be explained. The lecture is based on MATLAB TDA toolbox https://github.com/laplcebeltrami/PH-STAT. The detailed manual of the toolbox is given in [arXiv:2304.05912](https://arxiv.org/abs/2304.05912).
 The lecture slides is [lecture1.pdf](https://github.com/laplcebeltrami/ISBI2023TDA/blob/main/ISBI2023TDA-lecture1.pdf). 
 
 ### Lecture 2. Dynamic topological data analysis
